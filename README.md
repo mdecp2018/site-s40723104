@@ -7,3 +7,5 @@
 靜態:https://127.0.0.1:8443/
 
 簡報:https://mdecp2018.github.io/site-s40723104/reveal/index.html#/
+
+網站:file:///F:/p37/github/text1/site-s40723104/blog/index.html
