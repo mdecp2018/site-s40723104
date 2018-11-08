@@ -1,8 +1,9 @@
-.container {
+﻿.container {
   position: relative;
+  background-image:url()
 }
 header{
-  background: #ccc;
+  background-image:url();
   padding: 20px;
 }
 confmenu
